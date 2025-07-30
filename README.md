@@ -24,6 +24,6 @@
 </div><br/>
 
 ## About me:
- Systems Analysis and Development student at SENAC-SP.    
+ Systems Analysis and Development graduated at SENAC-SP.    
  
  
